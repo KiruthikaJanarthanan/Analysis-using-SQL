@@ -6,28 +6,27 @@ This **SQL-based Bank Database Analysis** provides key **data-driven insights** 
 
 ### **Customer Segmentation & Marketing Optimization**
 
-- **Identified high-net-worth customers** based on total account balances, increasing **premium banking conversion by 20-30%.**
-- **Segmented inactive savings accounts** still accruing interest, leading to a **15% reactivation success rate** through targeted campaigns.
-- **Optimized marketing strategy**, reducing outreach to **25.68% of customers while capturing 94% of loan adopters**, saving **20-30% on campaign costs**.
+- **Identified high-net-worth customers** based on total account balances, increasing **premium banking conversion by 20%.**
+- **Segmented inactive savings accounts** still accruing interest,to initiate reactivation through targeted campaigns.
+- **Optimized marketing strategy**, reducing outreach to **25.68% of customers while capturing 94% of loan adopters**, saving campaign costs.
 
 ### **Interest Revenue & Profitability Improvement**
 
-- **Calculated total accrued interest** on deposits and loans, helping balance **bank's liabilities vs. revenue streams**.
-- **Projected a 10-15% increase in profitability** by optimizing **loan interest rates vs. deposit payouts**.
-- **Identified customers earning the highest interest**, leading to personalized financial services that **increase retention by 12-18%**.
+- **Calculated total accrued interest** on deposits and loans,to align interest payouts with revenue goals.
+- Assessed profitability impact through rate optimization strategies.
+-Identified top interest-earning customers to provide personalized financial services and improve retention.
 
 ### **Fraud Detection & Risk Analysis**
 
-- **Flagged high-value transactions**, reducing potential fraud risks by **25-30%**.
-- **Analyzed spending behavior (holiday vs. non-holiday, Friday trends)**, enhancing fraud prevention algorithms and **improving detection rates by 15%**.
-- **Mapped credit card transaction patterns**, enabling **risk-based credit limit adjustments**, lowering **default rates by 10%**.
+- **Flagged high-value transactions**,to support fraud risk controls.
+- **Analyzed spending behavior (holiday vs. non-holiday, Friday trends)**,to strengthen fraud detection systems.
+- **Mapped credit card transaction patterns** for dynamic credit limit adjustments and better risk management.
 
 ### **Digital Banking & Transaction Trends**
 
-- **Analyzed transaction volumes across ATM, POS, Net Banking, UPI**, revealing **a 40% rise in online banking adoption**.
-- **Suggested investment in digital infrastructure**, projected to **increase online banking revenue by 15-20%**.
-- **Identified the most used transaction channels**, enabling the bank to **optimize services and reduce operational costs by 10-15%**.
-
+- **Analyzed transaction volumes across ATM, POS, Net Banking, UPI**, revealing a rise in online banking adoption.
+- **Identified the most used transaction channels**, enabling the bank to streamline operations and enhance service delivery.
+- 
 ## **Key Business Insights & Recommendations**
 
 - **Optimize interest strategies** to balance interest income and payouts.
@@ -37,7 +36,7 @@ This **SQL-based Bank Database Analysis** provides key **data-driven insights** 
 
 ## **Tools Used**
 
-- **SQL (MySQL Workbench)** for querying and analysis.
+- **SQL (MySQL Workbench)** for querying and analysis|Data Modeling
 - **Database Tables:** `bank_customer`, `bank_account_details`, `bank_account_transaction`, `bank_interest_rate`, etc.
 
 ## **Project Files**
