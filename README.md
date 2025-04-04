@@ -26,7 +26,7 @@ This **SQL-based Bank Database Analysis** provides key **data-driven insights** 
 
 - **Analyzed transaction volumes across ATM, POS, Net Banking, UPI**, revealing a rise in online banking adoption.
 - **Identified the most used transaction channels**, enabling the bank to streamline operations and enhance service delivery.
-- 
+  
 ## **Key Business Insights & Recommendations**
 
 - **Optimize interest strategies** to balance interest income and payouts.
